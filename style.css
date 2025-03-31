@@ -40,3 +40,12 @@ filter: blur(0px);
 transform: translate(0) rotate(-1deg);
 }
 }
+
+.maintextbox{
+    margin-left: 0px;
+    margin-top: 25px; 
+    box-shadow: 2px 2px 7px #144a96;
+    width: 650px;
+    background: #ffffff;
+    
+  }
