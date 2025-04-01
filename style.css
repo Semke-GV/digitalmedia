@@ -1,4 +1,4 @@
-.maintextbox{
+#maintextbox{
     margin-left: 300px;
     margin-top: 120px; 
     border: 3px solid #2484c6; 
@@ -6,7 +6,7 @@
     width: 650px;
     background: #ffffff;
   }
-  .maintextbox h1{
+  #maintextbox h1{
     text-align: center;
     font-family: "Gill Sans";
     font-size: 35px;
@@ -15,7 +15,7 @@
     color: #2484c6;
     text-shadow: -2px 2px 5px #fce388;
   }
-  .maintextbox p1{
+  #maintextbox p1{
     margin-left: 15px;
     font-family: "Gill Sans";
     font-size: 20px;
@@ -24,57 +24,5 @@
     color: #000000;
     text-shadow: -0.5px 0.5px 5px #c2c2c2
   }
-  .maintextbox p2{
-    margin-left: 15px;
-    font-family: "Gill Sans";
-    font-size: 20px;
-    letter-spacing: 1px;
-    line-height: 1;
-    color: #000000;
-    text-shadow: -0.5px 0.5px 5px #c2c2c2
-  }
-  .maintextbox p3{
-    margin-left: 15px;
-    font-family: "Gill Sans";
-    font-size: 20px;
-    letter-spacing: 1px;
-    line-height: 1;
-    color: #000000;
-    text-shadow: -0.5px 0.5px 5px #c2c2c2
-  }
-  .maintextbox p4{
-    margin-left: 15px;
-    font-family: "Gill Sans";
-    font-size: 20px;
-    letter-spacing: 1px;
-    line-height: 1;
-    color: #000000;
-    text-shadow: -0.5px 0.5px 5px #c2c2c2
-  }
-  .maintextbox p5{
-    margin-left: 15px;
-    font-family: "Gill Sans";
-    font-size: 20px;
-    letter-spacing: 1px;
-    line-height: 1;
-    color: #000000;
-    text-shadow: -0.5px 0.5px 5px #c2c2c2
-  }
-  .maintextbox p6{
-    margin-left: 15px;
-    font-family: "Gill Sans";
-    font-size: 20px;
-    letter-spacing: 1px;
-    line-height: 1;
-    color: #000000;
-    text-shadow: -0.5px 0.5px 5px #c2c2c2
-  }
-  .maintextbox p7{
-    margin-left: 15px;
-    font-family: "Gill Sans";
-    font-size: 20px;
-    letter-spacing: 1px;
-    line-height: 1;
-    color: #000000;
-    text-shadow: -0.5px 0.5px 5px #c2c2c2
-  }
+  
+  
