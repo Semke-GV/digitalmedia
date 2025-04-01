@@ -1,42 +1,80 @@
-.disk {
-margin: 0px;
-padding: 0px;
-width: 0px;
-}
-.disk img {
-width: 180px;
-animation-state: running;
-animation-iteration-count: infinite;
-animation-duration: 2s;
-}
-.disk:hover {
-transform: rotate(10deg);
-filter: drop-shadow(7px 7px 0px #(000000));
-transition: 1s;
-}
-.disk:not(:hover) {
-transform: rotate(-10deg);
-transition: 1s;
-filter: drop-shadow(0px 0px 0px #(000000));
-}
-
-10%, 30%, 40%, 50%, 70%, 80%, 90% {
-filter: blur(1px);
-transform: translateY(-1px) rotate(0deg);
-}
-
-20%, 60% {
-filter: blur(0px);
-transform: translate(-1px, 1px) rotate(0deg);
-}
-
-45%, 85% {
-filter: blur(1px);
-transform: translate(1px, -1px) rotate(0deg);
-}
-
-100% {
-filter: blur(0px);
-transform: translate(0) rotate(-1deg);
-}
-}
+.maintextbox{
+    margin-left: 300px;
+    margin-top: 120px; 
+    border: 3px solid #2484c6; 
+    box-shadow: 15px 15px 0px #2484c6;
+    width: 650px;
+    background: #ffffff;
+  }
+  .maintextbox h1{
+    text-align: center;
+    font-family: "Gill Sans";
+    font-size: 35px;
+    letter-spacing: 1px;
+    line-height: 0.5;
+    color: #2484c6;
+    text-shadow: -2px 2px 5px #fce388;
+  }
+  .maintextbox p1{
+    margin-left: 15px;
+    font-family: "Gill Sans";
+    font-size: 20px;
+    letter-spacing: 1px;
+    line-height: 1;
+    color: #000000;
+    text-shadow: -0.5px 0.5px 5px #c2c2c2
+  }
+  .maintextbox p2{
+    margin-left: 15px;
+    font-family: "Gill Sans";
+    font-size: 20px;
+    letter-spacing: 1px;
+    line-height: 1;
+    color: #000000;
+    text-shadow: -0.5px 0.5px 5px #c2c2c2
+  }
+  .maintextbox p3{
+    margin-left: 15px;
+    font-family: "Gill Sans";
+    font-size: 20px;
+    letter-spacing: 1px;
+    line-height: 1;
+    color: #000000;
+    text-shadow: -0.5px 0.5px 5px #c2c2c2
+  }
+  .maintextbox p4{
+    margin-left: 15px;
+    font-family: "Gill Sans";
+    font-size: 20px;
+    letter-spacing: 1px;
+    line-height: 1;
+    color: #000000;
+    text-shadow: -0.5px 0.5px 5px #c2c2c2
+  }
+  .maintextbox p5{
+    margin-left: 15px;
+    font-family: "Gill Sans";
+    font-size: 20px;
+    letter-spacing: 1px;
+    line-height: 1;
+    color: #000000;
+    text-shadow: -0.5px 0.5px 5px #c2c2c2
+  }
+  .maintextbox p6{
+    margin-left: 15px;
+    font-family: "Gill Sans";
+    font-size: 20px;
+    letter-spacing: 1px;
+    line-height: 1;
+    color: #000000;
+    text-shadow: -0.5px 0.5px 5px #c2c2c2
+  }
+  .maintextbox p7{
+    margin-left: 15px;
+    font-family: "Gill Sans";
+    font-size: 20px;
+    letter-spacing: 1px;
+    line-height: 1;
+    color: #000000;
+    text-shadow: -0.5px 0.5px 5px #c2c2c2
+  }
