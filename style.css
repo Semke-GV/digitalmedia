@@ -1,4 +1,4 @@
-#maintextbox{
+div{
     margin-left: 300px;
     margin-top: 120px; 
     border: 3px solid #2484c6; 
@@ -6,6 +6,7 @@
     width: 650px;
     background: #ffffff;
   }
+  
   #maintextbox h1{
     text-align: center;
     font-family: "Gill Sans";
